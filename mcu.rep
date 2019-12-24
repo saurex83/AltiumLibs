@@ -1,0 +1,10 @@
+CSV text has been written to file : mcu.csv
+
+Library Component Count : 3
+
+Name                Description
+----------------------------------------------------------------------------------------------------
+
+CC2530F256          
+M430F1611           MCU
+STM32L151C8T6TR     STM32L151C8T6TR
